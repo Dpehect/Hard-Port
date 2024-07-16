@@ -1,0 +1,67 @@
+name: easyportmobill
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^5.0.0
+  get: ^4.6.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/bg-1.png
+    - assets/logo-text.png
+    - assets/mail-icon.png
+    - assets/password-icon.png
+    - assets/logo-text-black.png
+    - assets/mail-icon-black.png
+    - assets/tik-green.png
+    - assets/datascompanycamera.png
+    - assets/datascompanyplus.png
+    - assets/plusbuttonwhite.png
+    - assets/home-passive.png
+    - assets/home-active.png
+    - assets/trips-passive.png
+    - assets/trips-active.png
+    - assets/notifications.png
+    - assets/menu.png
+    - assets/sidebysideArrows.png
+    - assets/underArrows.png
+    - assets/truckAllTrips.png
+    - assets/profileAlLTrips.png
+    - assets/phoneAllTrips.png
+    - assets/pdfAllTrips.png
+    - assets/filter.png
+    - assets/carAllTrips.png
+    - assets/downloadAllTrips.png
+    - assets/infoAllTrips.png
+    - assets/closeAllTrips.png
+    - assets/betweenImage.png
+    - assets/line.png
+    - assets/clockImage.png
+    - assets/user.png
+    - assets/telegramlogo.png
+    - assets/trucktracing.png
+    - assets/horizontalline.png
+    - assets/whiteokay.png
+    - assets/closerounded.png
+    - assets/greenokay.png
+    - assets/timerblack.png
+    - assets/summer.png
+    - assets/winter.png
+    - assets/fourseasons.png
